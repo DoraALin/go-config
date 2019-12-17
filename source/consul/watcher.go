@@ -6,9 +6,9 @@ import (
 	"errors"
 	"fmt"
 
+	"github.com/DoraALin/go-config/source"
 	"github.com/hashicorp/consul/api"
 	"github.com/hashicorp/consul/watch"
-	"github.com/micro/go-config/source"
 )
 
 type watcher struct {

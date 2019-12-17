@@ -5,8 +5,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/micro/go-config/reader"
-	"github.com/micro/go-config/source"
+	"github.com/DoraALin/go-config/reader"
+	"github.com/DoraALin/go-config/source"
 )
 
 // Config is an interface abstraction for dynamic configuration

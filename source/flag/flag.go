@@ -7,7 +7,7 @@ import (
 	"flag"
 	"fmt"
 	"github.com/imdario/mergo"
-	"github.com/micro/go-config/source"
+	"github.com/DoraALin/go-config/source"
 	"strings"
 	"time"
 )

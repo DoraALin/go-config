@@ -3,7 +3,7 @@ package file
 import (
 	"errors"
 
-	"github.com/micro/go-config/source"
+	"github.com/DoraALin/go-config/source"
 	"gopkg.in/fsnotify.v1"
 )
 

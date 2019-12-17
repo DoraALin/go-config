@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/imdario/mergo"
-	"github.com/micro/go-config/reader"
-	"github.com/micro/go-config/source"
+	"github.com/DoraALin/go-config/reader"
+	"github.com/DoraALin/go-config/source"
 	hash "github.com/mitchellh/hashstructure"
 )
 

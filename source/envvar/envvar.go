@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/imdario/mergo"
-	"github.com/micro/go-config/source"
+	"github.com/DoraALin/go-config/source"
 )
 
 type envvar struct {

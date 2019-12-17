@@ -7,9 +7,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/micro/go-config/reader"
-	"github.com/micro/go-config/reader/json"
-	"github.com/micro/go-config/source"
+	"github.com/DoraALin/go-config/reader"
+	"github.com/DoraALin/go-config/reader/json"
+	"github.com/DoraALin/go-config/source"
 )
 
 type config struct {

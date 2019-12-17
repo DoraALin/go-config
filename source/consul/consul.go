@@ -7,7 +7,7 @@ import (
 	"net"
 
 	"github.com/hashicorp/consul/api"
-	"github.com/micro/go-config/source"
+	"github.com/DoraALin/go-config/source"
 )
 
 // Currently a single consul reader
